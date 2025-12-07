@@ -1,0 +1,17 @@
+.alert-box {
+  padding: 12px;
+  margin: 10px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.alert-success {
+  background: #d4ffd7;
+  color: #0d7a0d;
+}
+
+.alert-error {
+  background: #ffcaca;
+  color: #b80000;
+}
